@@ -1,0 +1,17 @@
+d:\Project4\AppAsync\bin\Debug\net8.0\AppAsync.exe
+d:\Project4\AppAsync\bin\Debug\net8.0\AppAsync.deps.json
+d:\Project4\AppAsync\bin\Debug\net8.0\AppAsync.runtimeconfig.json
+d:\Project4\AppAsync\bin\Debug\net8.0\AppAsync.dll
+d:\Project4\AppAsync\bin\Debug\net8.0\AppAsync.pdb
+d:\Project4\AppAsync\bin\Debug\net8.0\Newtonsoft.Json.dll
+d:\Project4\AppAsync\obj\Debug\net8.0\AppAsync.csproj.AssemblyReference.cache
+d:\Project4\AppAsync\obj\Debug\net8.0\AppAsync.GeneratedMSBuildEditorConfig.editorconfig
+d:\Project4\AppAsync\obj\Debug\net8.0\AppAsync.AssemblyInfoInputs.cache
+d:\Project4\AppAsync\obj\Debug\net8.0\AppAsync.AssemblyInfo.cs
+d:\Project4\AppAsync\obj\Debug\net8.0\AppAsync.csproj.CoreCompileInputs.cache
+d:\Project4\AppAsync\obj\Debug\net8.0\AppAsync.csproj.Up2Date
+d:\Project4\AppAsync\obj\Debug\net8.0\AppAsync.dll
+d:\Project4\AppAsync\obj\Debug\net8.0\refint\AppAsync.dll
+d:\Project4\AppAsync\obj\Debug\net8.0\AppAsync.pdb
+d:\Project4\AppAsync\obj\Debug\net8.0\AppAsync.genruntimeconfig.cache
+d:\Project4\AppAsync\obj\Debug\net8.0\ref\AppAsync.dll

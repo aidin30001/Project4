@@ -1,0 +1,1 @@
+<ArrayOfPrices xmlns="http://schemas.datacontract.org/2004/07/AppAsync.Shop" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><Prices><P_Apple>10</P_Apple><P_Microsoft>10</P_Microsoft></Prices><Prices><P_Apple>10</P_Apple><P_Microsoft>10</P_Microsoft></Prices></ArrayOfPrices>

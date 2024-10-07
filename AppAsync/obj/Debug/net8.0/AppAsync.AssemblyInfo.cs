@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AppAsync")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+399477fc7c201f52515be19dfa37caaa0f034ee8")]
 [assembly: System.Reflection.AssemblyProductAttribute("AppAsync")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AppAsync")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
